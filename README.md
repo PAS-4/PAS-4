@@ -23,4 +23,4 @@ Esse repositório é o site que desenvolvi para minha irmã, mostrando o trabalh
 ## #boraCodar 💪
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PAS-4&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAS-4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAS-4&layout=compact)](https://github.com/PAS-4/github-readme-stats)
