@@ -4,13 +4,13 @@
 
 ### Me chamo Patrese Ávila, sou dev' junior, e como tal, fascinado pelo mundo da programação e buscando evoluir sempre. Tenho desenvolvido alguns projetos pessoais, tentando ao máximo implemantar neles meus conhecimentos.
 
-## Destaques:
+# Destaques:
 
-#### POA-ZONEAMENTO
+## [POA-ZONEAMENTO](https://pas-4.github.io/POA-ZONEAMENTO/)
 
 Sou servidor público da Cidade de Poá / SP e esse repositório é uma tela de consulta dos índices urbanísticos do município. Ele foi criado com o intuito de facilitar o atendimento ao público.
 
-#### KAKA-CROCHE
+## [KAKA CROCHE](https://pas-4.github.io/KAKACROCHE/)
 
 Esse repositório é o site que desenvolvi para minha irmã, mostrando o trabalho dela com crochê e artesanato em geral. Trabalho lindo, diga-se de passagem ❤.
 
